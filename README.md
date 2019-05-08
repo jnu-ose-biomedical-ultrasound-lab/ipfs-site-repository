@@ -1,2 +1,2 @@
 # ipfs-site-repository
-A summary of our site on IPFS. 
+A repository for the lab site we host on IPFS. 
